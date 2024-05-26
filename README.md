@@ -55,7 +55,7 @@
 
 ### ⚙️  GitHub Analytics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=haykmargar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&&hide=issues)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=haykmargar)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haykmargar&layout=compact&langs_count=8&theme=algolia)
 
 
