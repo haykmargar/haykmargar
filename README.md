@@ -55,8 +55,8 @@
 
 ### ⚙️  GitHub Analytics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=haykmargar)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haykmargar&layout=compact&langs_count=8&theme=algolia)
+![haykmargar's Stats](https://github-readme-stats.vercel.app/api?username=haykmargar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![haykmargar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haykmargar&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
 ### 🔗 Contacts:
