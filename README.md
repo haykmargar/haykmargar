@@ -11,7 +11,7 @@
 <ul>
   <li>🚀 Programming: Expertise in JavaScript, TypeScript, Node.js.</li>
   <li>🧪 Testing: API automation, UI automation, WDIO, Playwright, Cucumber, Cypress</li>
-  <li>☁️ Cloud: Amazon Web Services: Lambda, API Gateway, Cloudfront, Cloudwatch, DynamoDB, S3, IAM, SQS & SNS, Serverless, AWS Syndicate</li>
+  <li>☁️ Cloud: AWS: Lambda, API Gateway, Cloudfront, Cloudwatch, DynamoDB, S3, IAM, SQS & SNS, Serverless, AWS Syndicate</li>
   <li>💡 Problem-Solving: Persistent and adept at overcoming challenges.</li>
   <li>🤝 Teamwork: Collaborative and skilled in cross-functional communication.</li>
   <li>📈 Continuous Learning: Passionate about learning new technologies and methodologies.</li>
