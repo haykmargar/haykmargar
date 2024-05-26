@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A700&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer+in+Test;+AWS+Cloud+Practitioner" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A700&vCenter=true&random=false&width=435&lines=Software+Engineer+in+Test;+AWS+Cloud+Practitioner)](https://git.io/typing-svg)
 
 <!--
 **haykmargar/haykmargar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
